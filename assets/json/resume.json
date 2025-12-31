@@ -1,18 +1,19 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Maria del Mar Palomares Marin",
+    "label": "Assistant Professor in Spanish",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "maria.palomares@ul.ie",
+    "phone": "Attending calls via MSTeams",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Office MC1011, School of Modern Languages and Applied Linguistics",
+      "university": "University of Limerick"
+      "postalCode": "V94 T9PX",
+      "city": "Limerick",
+      "country": "Ireland",
+      
     },
     "profiles": [
       {
